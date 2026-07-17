@@ -1,0 +1,33 @@
+# Vivado generated folders
+.Xil/
+*.Xil/
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+
+# Your project folders
+riscv32i_mp.sim/
+riscv32i_mp.cache/
+riscv32i_mp.gen/
+riscv32i_mp.runs/
+riscv32i_mp.ip_user_files/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+*.wcfg
+
+# Bitstreams
+*.bit
+*.bin
+
+# Temporary
+*.tmp
+*.backup
